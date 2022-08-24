@@ -5,3 +5,5 @@
 Sınıfların Organizasyonu: Ödev1Soru1.java dosyası
 
 Sarmalama ve Erişim Yöntemi: Account.java ve AccountTest.java dosyaları
+
+Tekrar Kullanım ve Miras: Shape.java, ShapeTest.java, Circle.java, Rectangle.java, Squre.java ve Triangle.java dosyaları
