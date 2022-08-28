@@ -9,6 +9,6 @@ TEKRAR KULLANIM VE MİRAS: Shape.java, ShapeTest.java, Circle.java, Rectangle.ja
 
 ÇOK ŞEKİLLİLİK: RegistrationOffice.java, Test.java, Student.java, GraduateStudent.java, UndergraduateStudent.java, MasterStudent.java, PhdStudent.java ve VocationalStudent.java dosyaları
 
-SOYUT SINIFLAR: 
+SOYUT SINIFLAR: Graduate_Student.java, Master_Student.java, Phd_Student.java, Registration_Office.java, Student_Abstract.java, Testt.java, Undergraduate_Student.java ve Vocational_Student.java dosyaları
 
 ARAYÜZLER: 
