@@ -1,17 +1,10 @@
 # homework-zeynephazneci
+İLERİ SINIF VE ÖZELLİKLERİ :Ödev2Soru3.java dosyası
 
-İleri Sınıf ve Nesne Özellikleri :
+SINIFLARIN ORGANİZASYONU: Ödev1Soru1.java dosyası
 
-Ödev2Soru3.java dosyası
+SARMALAMA VE ERİŞİM YÖNTEMİ: Account.java ve AccountTest.java dosyaları
 
-Sınıfların Organizasyonu: 
-Ödev1Soru1.java dosyası
+TEKRAR KULLANIM VE MİRAS: Shape.java, ShapeTest.java, Circle.java, Rectangle.java, Squre.java ve Triangle.java dosyaları
 
-Sarmalama ve Erişim Yöntemi: 
-Account.java ve AccountTest.java dosyaları
-
-Tekrar Kullanım ve Miras: 
-Shape.java, ShapeTest.java, Circle.java, Rectangle.java, Squre.java ve Triangle.java dosyaları
-
-Çok Şekillilik: 
-RegistrationOffice.java, Test.java, Student.java, GraduateStudent.java, UndergraduateStudent.java, MasterStudent.java, PhdStudent.java ve VocationalStudent.java dosyaları
+ÇOK ŞEKİLLİLİK: RegistrationOffice.java, Test.java, Student.java, GraduateStudent.java, UndergraduateStudent.java, MasterStudent.java, PhdStudent.java ve VocationalStudent.java dosyaları
