@@ -11,7 +11,8 @@ TEKRAR KULLANIM VE MİRAS: Shape.java, ShapeTest.java, Circle.java, Rectangle.ja
 
 SOYUT SINIFLAR: Graduate_Student.java, Master_Student.java, Phd_Student.java, Registration_Office.java, Student_Abstract.java, Testt.java, Undergraduate_Student.java ve Vocational_Student.java dosyaları
 
-ARAYÜZLER: 
+ARAYÜZLER:
+
 1.SORU: AbstractStudent.java, GraduateStudent_ch3.java, MasterStudent_ch3.java, PhdStudent_ch3.java, RegistrationOffice_ch3.java, Student.java, Test_ch3.java, UndergraduateStudent_ch3.java ve VocationalStudent_ch3.java dosyaları
 
 5.SORU:
