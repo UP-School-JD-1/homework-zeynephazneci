@@ -15,5 +15,5 @@ ARAYÜZLER:
 
 1.SORU: AbstractStudent.java, GraduateStudent_ch3.java, MasterStudent_ch3.java, PhdStudent_ch3.java, RegistrationOffice_ch3.java, Student.java, Test_ch3.java, UndergraduateStudent_ch3.java ve VocationalStudent_ch3.java dosyaları
 
-5.SORU:
+5.SORU: Abstract_Product.java, ClothProduct.java, ConsultancyProduct.java, FoodProduct.java, Gift.java, Locatable.java, Location.java, OldComputers.java, Priceable.java, Product.java ve Test.java dosyaları
 
